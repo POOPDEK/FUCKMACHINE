@@ -1,0 +1,14 @@
+{
+  "name": "bitchbot",
+  "version": "1.0.0",
+  "description": "mod bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "SOD",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
